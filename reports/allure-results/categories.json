@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Known Issue",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*NullPointerException.*"
+  },
+  {
+    "name": "Infrastructure Problem",
+    "matchedStatuses": ["broken"],
+    "traceRegex": ".*Database connection.*"
+  }
+]

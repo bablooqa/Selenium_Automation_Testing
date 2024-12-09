@@ -1,0 +1,1009 @@
+2024-11-14 04:08:30,900 - logging_config - INFO - Starting all tests
+2024-11-14 04:08:35,716 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-14 04:08:35,717 - logging_config - INFO - Setting up valid login credentials
+2024-11-14 04:08:37,865 - logging_config - INFO - Opening the login page URL
+2024-11-14 04:08:41,835 - logging_config - INFO - Entering username and password
+2024-11-14 04:08:44,460 - logging_config - INFO - Clicked the login button
+2024-11-14 04:08:44,463 - logging_config - INFO - Verifying if the user is successfully logged in
+2024-11-14 04:08:45,233 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-14 04:08:45,576 - logging_config - INFO - Verifying the profile page display
+2024-11-14 04:08:45,614 - logging_config - INFO - Profile page displayed correctly
+2024-11-14 04:08:45,892 - logging_config - INFO - Logging out the user
+2024-11-14 04:08:47,737 - logging_config - INFO - Clicked the logout option
+2024-11-14 04:08:48,295 - logging_config - INFO - User successfully logged out and redirected to the login page
+2024-11-14 04:08:48,295 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-14 04:08:48,296 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-14 04:08:48,529 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-14 04:08:48,531 - logging_config - INFO - Setting up invalid login credentials
+2024-11-14 04:08:48,532 - logging_config - INFO - Entering invalid username and password
+2024-11-14 04:08:54,352 - logging_config - INFO - Clicked the login button with invalid credentials
+2024-11-14 04:08:54,353 - logging_config - INFO - Checking for error message on login failure
+2024-11-14 04:08:54,829 - logging_config - INFO - Error message displayed correctly
+2024-11-14 04:08:54,953 - logging_config - INFO - Verifying that the user is not logged in
+2024-11-14 04:08:54,985 - logging_config - INFO - User is not logged in as expected
+2024-11-14 04:08:54,985 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-14 04:08:54,986 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-14 04:08:54,987 - logging_config - INFO - All tests completed
+2024-11-15 01:15:19,362 - logging_config - INFO - Starting all tests
+2024-11-15 01:15:26,690 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-15 01:15:26,697 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 01:15:29,346 - logging_config - INFO - Opening the login page URL
+2024-11-15 01:15:33,249 - logging_config - INFO - Entering username and password
+2024-11-15 01:15:35,828 - logging_config - INFO - Clicked the login button
+2024-11-15 01:15:35,834 - logging_config - INFO - Verifying if the user is successfully logged in
+2024-11-15 01:15:36,574 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 01:15:36,782 - logging_config - INFO - Verifying the profile page display
+2024-11-15 01:15:36,835 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 01:15:37,107 - logging_config - INFO - Logging out the user
+2024-11-15 01:15:38,404 - logging_config - INFO - Clicked the logout option
+2024-11-15 01:15:38,949 - logging_config - INFO - User successfully logged out and redirected to the login page
+2024-11-15 01:15:38,949 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-15 01:15:38,950 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-15 01:15:39,230 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-15 01:15:39,231 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 01:15:39,232 - logging_config - INFO - Entering invalid username and password
+2024-11-15 01:15:44,514 - logging_config - INFO - Clicked the login button with invalid credentials
+2024-11-15 01:15:44,515 - logging_config - INFO - Checking for error message on login failure
+2024-11-15 01:15:44,968 - logging_config - INFO - Error message displayed correctly
+2024-11-15 01:15:45,160 - logging_config - INFO - Verifying that the user is not logged in
+2024-11-15 01:15:45,207 - logging_config - INFO - User is not logged in as expected
+2024-11-15 01:15:45,207 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-15 01:15:45,208 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-15 01:15:45,210 - logging_config - INFO - All tests completed
+2024-11-15 01:43:00,317 - logging_config - INFO - Starting all tests
+2024-11-15 01:43:06,731 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-15 01:43:06,765 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 01:43:09,269 - logging_config - INFO - Opening the login page URL
+2024-11-15 01:43:10,745 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:43:10,747 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:43:10,772 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-15 01:43:10,773 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 01:43:10,774 - logging_config - INFO - Entering invalid username and password
+2024-11-15 01:43:10,792 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:43:10,801 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:43:10,805 - logging_config - INFO - All tests completed
+2024-11-15 01:43:33,484 - logging_config - INFO - Starting all tests
+2024-11-15 01:43:35,752 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-15 01:43:35,759 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 01:43:38,169 - logging_config - INFO - Opening the login page URL
+2024-11-15 01:43:41,720 - logging_config - INFO - Entering username and password
+2024-11-15 01:43:42,629 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:43:42,631 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:43:42,636 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-15 01:43:42,637 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 01:43:42,638 - logging_config - INFO - Entering invalid username and password
+2024-11-15 01:43:46,849 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:43:46,850 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:43:46,854 - logging_config - INFO - All tests completed
+2024-11-15 01:45:28,197 - logging_config - INFO - Starting all tests
+2024-11-15 01:45:33,492 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-15 01:45:33,495 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 01:45:36,306 - logging_config - INFO - Opening the login page URL
+2024-11-15 01:45:43,438 - logging_config - INFO - Entering username and password
+2024-11-15 01:45:44,209 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:45:44,210 - logging_config - ERROR - Scenario failed: Test Login with Correct Credentials
+2024-11-15 01:45:44,213 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-15 01:45:44,214 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 01:45:44,215 - logging_config - INFO - Entering invalid username and password
+2024-11-15 01:45:48,533 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:45:48,535 - logging_config - ERROR - Scenario failed: Test Login with Incorrect Credentials
+2024-11-15 01:45:48,543 - logging_config - INFO - All tests completed
+2024-11-15 01:49:33,950 - logging_config - INFO - Starting all tests
+2024-11-15 01:49:39,231 - logging_config - INFO - Starting scenario: Test Login with Correct Credentials
+2024-11-15 01:49:39,233 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 01:49:41,522 - logging_config - INFO - Opening the login page URL
+2024-11-15 01:49:45,356 - logging_config - INFO - Entering username and password
+2024-11-15 01:49:46,324 - logging_config - INFO - Entered username: admin
+2024-11-15 01:49:46,614 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 01:49:47,857 - logging_config - INFO - Clicked the login button
+2024-11-15 01:49:47,858 - logging_config - INFO - Verifying if the user is successfully logged in
+2024-11-15 01:49:48,890 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 01:49:49,219 - logging_config - INFO - Verifying the profile page display
+2024-11-15 01:49:49,286 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 01:49:49,522 - logging_config - INFO - Logging out the user
+2024-11-15 01:49:49,675 - logging_config - INFO - Clicked on the profile dropdown
+2024-11-15 01:49:51,077 - logging_config - INFO - Clicked the logout option
+2024-11-15 01:49:51,637 - logging_config - INFO - User successfully logged out and redirected to the login page
+2024-11-15 01:49:51,638 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-15 01:49:51,639 - logging_config - INFO - Scenario passed: Test Login with Correct Credentials
+2024-11-15 01:49:51,816 - logging_config - INFO - Starting scenario: Test Login with Incorrect Credentials
+2024-11-15 01:49:51,817 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 01:49:51,819 - logging_config - INFO - Entering invalid username and password
+2024-11-15 01:49:55,809 - logging_config - INFO - Entered invalid username: Admin1
+2024-11-15 01:49:56,056 - logging_config - INFO - Entered invalid password: [HIDDEN]
+2024-11-15 01:49:56,953 - logging_config - INFO - Clicked the login button with invalid credentials
+2024-11-15 01:49:56,957 - logging_config - INFO - Checking for error message on login failure
+2024-11-15 01:49:57,335 - logging_config - INFO - Error message displayed correctly
+2024-11-15 01:49:57,486 - logging_config - INFO - Verifying that the user is not logged in
+2024-11-15 01:49:57,519 - logging_config - INFO - User is not logged in as expected
+2024-11-15 01:49:57,520 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-15 01:49:57,521 - logging_config - INFO - Scenario passed: Test Login with Incorrect Credentials
+2024-11-15 01:49:57,524 - logging_config - INFO - All tests completed
+2024-11-15 02:38:14,648 - logging_config - INFO - Starting all tests
+2024-11-15 02:38:21,760 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:38:21,763 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 02:38:29,092 - logging_config - INFO - Entering username and password
+2024-11-15 02:38:30,086 - logging_config - INFO - Entered username: admin
+2024-11-15 02:38:30,361 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:38:31,617 - logging_config - INFO - Clicked the login button
+2024-11-15 02:38:31,618 - logging_config - INFO - Checking if user is successfully logged in
+2024-11-15 02:38:32,191 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 02:38:32,516 - logging_config - INFO - Verifying that correct profile page is displayed
+2024-11-15 02:38:32,635 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 02:38:32,924 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:38:32,935 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:38:33,186 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:38:33,187 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 02:38:39,908 - logging_config - INFO - Entering username and password
+2024-11-15 02:38:40,818 - logging_config - INFO - Entered username: Admin1
+2024-11-15 02:38:41,015 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:38:41,998 - logging_config - INFO - Clicked the login button
+2024-11-15 02:38:42,000 - logging_config - INFO - Checking if user is not be logged in
+2024-11-15 02:38:42,564 - logging_config - INFO - User is not logged in as expected
+2024-11-15 02:38:42,566 - logging_config - INFO - Verifying that error message is displayed
+2024-11-15 02:38:42,616 - logging_config - INFO - Error message displayed correctly
+2024-11-15 02:38:42,726 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:38:42,727 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:38:42,883 - logging_config - INFO - All tests completed
+2024-11-15 02:44:22,590 - logging_config - INFO - Starting all tests
+2024-11-15 02:44:27,289 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:44:27,294 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 02:44:29,590 - logging_config - INFO - Opening the login page URL
+2024-11-15 02:44:33,453 - logging_config - INFO - Entering username and password
+2024-11-15 02:44:34,548 - logging_config - INFO - Entered username: admin
+2024-11-15 02:44:34,748 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:44:34,934 - logging_config - INFO - Clicked the login button
+2024-11-15 02:44:34,937 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-15 02:44:36,706 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 02:44:37,049 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-15 02:44:37,146 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 02:44:37,433 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:44:37,436 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:44:37,858 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:44:37,859 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 02:44:40,261 - logging_config - INFO - Opening the login page URL
+2024-11-15 02:44:43,761 - logging_config - INFO - Entering username and password
+2024-11-15 02:44:44,583 - logging_config - INFO - Entered username: Admin1
+2024-11-15 02:44:44,803 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:44:45,691 - logging_config - INFO - Clicked the login button
+2024-11-15 02:44:45,694 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-15 02:44:46,305 - logging_config - INFO - User is not logged in as expected
+2024-11-15 02:44:46,311 - logging_config - INFO - Checking if error message is displayed
+2024-11-15 02:44:46,398 - logging_config - INFO - Error message displayed correctly
+2024-11-15 02:44:46,589 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:44:46,590 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:44:46,781 - logging_config - INFO - All tests completed
+2024-11-15 02:53:06,533 - logging_config - INFO - Starting all tests
+2024-11-15 02:53:11,581 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:53:11,584 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 02:53:14,038 - logging_config - INFO - Opening the login page URL
+2024-11-15 02:53:18,412 - logging_config - INFO - Entering username and password
+2024-11-15 02:53:19,539 - logging_config - INFO - Entered username: admin
+2024-11-15 02:53:19,749 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:53:21,031 - logging_config - INFO - Clicked the login button
+2024-11-15 02:53:21,033 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-15 02:53:21,633 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 02:53:22,092 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-15 02:53:22,162 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 02:53:22,431 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:53:22,443 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 02:53:22,692 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:53:22,704 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 02:53:25,176 - logging_config - INFO - Opening the login page URL
+2024-11-15 02:53:29,192 - logging_config - INFO - Entering username and password
+2024-11-15 02:53:30,018 - logging_config - INFO - Entered username: Admin1
+2024-11-15 02:53:30,297 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 02:53:31,252 - logging_config - INFO - Clicked the login button
+2024-11-15 02:53:31,258 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-15 02:53:31,818 - logging_config - INFO - User is not logged in as expected
+2024-11-15 02:53:31,820 - logging_config - INFO - Checking if error message is displayed
+2024-11-15 02:53:31,867 - logging_config - INFO - Error message displayed correctly
+2024-11-15 02:53:32,061 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:53:32,062 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 02:53:32,356 - logging_config - INFO - All tests completed
+2024-11-15 18:52:32,122 - logging_config - INFO - Starting all tests
+2024-11-15 18:52:38,814 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.1 
+2024-11-15 18:52:38,817 - logging_config - INFO - Setting up valid login credentials
+2024-11-15 18:52:41,421 - logging_config - INFO - Opening the login page URL
+2024-11-15 18:52:45,573 - logging_config - INFO - Entering username and password
+2024-11-15 18:52:46,511 - logging_config - INFO - Entered username: admin
+2024-11-15 18:52:46,691 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 18:52:48,089 - logging_config - INFO - Clicked the login button
+2024-11-15 18:52:48,098 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-15 18:52:48,675 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-15 18:52:49,373 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-15 18:52:49,977 - logging_config - INFO - Profile page displayed correctly
+2024-11-15 18:52:50,243 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 18:52:50,245 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.1 
+2024-11-15 18:52:50,665 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.2 
+2024-11-15 18:52:50,667 - logging_config - INFO - Setting up invalid login credentials
+2024-11-15 18:52:53,091 - logging_config - INFO - Opening the login page URL
+2024-11-15 18:52:56,378 - logging_config - INFO - Entering username and password
+2024-11-15 18:52:57,165 - logging_config - INFO - Entered username: Admin1
+2024-11-15 18:52:57,340 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-15 18:52:58,202 - logging_config - INFO - Clicked the login button
+2024-11-15 18:52:58,206 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-15 18:52:59,071 - logging_config - INFO - User is not logged in as expected
+2024-11-15 18:52:59,073 - logging_config - INFO - Checking if error message is displayed
+2024-11-15 18:52:59,110 - logging_config - INFO - Error message displayed correctly
+2024-11-15 18:52:59,218 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 18:52:59,221 - logging_config - INFO - Scenario passed: Test Login with Various Credentials -- @1.2 
+2024-11-15 18:52:59,355 - logging_config - INFO - All tests completed
+2024-11-16 00:55:37,912 - logging_config - INFO - Starting all tests
+2024-11-16 00:55:43,993 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 00:55:43,994 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 00:55:46,419 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 00:55:50,543 - logging_config - INFO - Entering username and password
+2024-11-16 00:55:51,788 - logging_config - INFO - Entered username: admin
+2024-11-16 00:55:51,983 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 00:55:53,213 - logging_config - INFO - Clicked the login button
+2024-11-16 00:55:53,220 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 00:55:53,790 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 00:55:54,201 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 00:55:54,302 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 00:55:54,526 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 00:55:54,530 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 00:55:54,805 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 00:55:54,807 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 00:57:05,167 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 00:57:08,875 - logging_config - INFO - Entering username and password
+2024-11-16 00:57:09,633 - logging_config - INFO - Entered username: Admin1
+2024-11-16 00:57:09,709 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 00:57:11,547 - logging_config - INFO - Clicked the login button
+2024-11-16 00:57:11,548 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 00:57:12,193 - logging_config - INFO - User is not logged in as expected
+2024-11-16 00:57:12,196 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 00:57:12,244 - logging_config - INFO - Error message displayed correctly
+2024-11-16 00:57:12,321 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 00:57:12,325 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 00:57:12,331 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 00:57:12,332 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 00:57:15,022 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 00:57:18,252 - logging_config - INFO - Entering username and password
+2024-11-16 00:57:19,140 - logging_config - INFO - Entered username: admin
+2024-11-16 00:57:19,302 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 00:57:19,496 - logging_config - INFO - Clicked the login button
+2024-11-16 00:57:19,500 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 00:57:21,195 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 00:57:21,378 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 00:57:21,422 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 00:57:21,618 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 00:57:21,621 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 00:57:21,802 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 00:57:21,804 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 00:57:23,967 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 00:57:27,451 - logging_config - INFO - Entering username and password
+2024-11-16 00:57:28,275 - logging_config - INFO - Entered username: Admin1
+2024-11-16 00:57:28,541 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 00:57:29,436 - logging_config - INFO - Clicked the login button
+2024-11-16 00:57:29,437 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 00:57:30,516 - logging_config - INFO - User is not logged in as expected
+2024-11-16 00:57:30,519 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 00:57:30,575 - logging_config - INFO - Error message displayed correctly
+2024-11-16 00:57:30,708 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 00:57:30,709 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 00:57:30,828 - logging_config - INFO - All tests completed
+2024-11-16 01:34:31,556 - logging_config - INFO - Starting all tests
+2024-11-16 01:34:31,565 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 01:34:41,083 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 01:34:47,631 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 01:34:51,453 - logging_config - INFO - Entering username and password
+2024-11-16 01:34:53,166 - logging_config - INFO - Entered username: admin
+2024-11-16 01:34:53,375 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 01:34:54,772 - logging_config - INFO - Clicked the login button
+2024-11-16 01:34:54,773 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 01:34:55,469 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 01:34:56,443 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 01:34:56,589 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 01:34:56,876 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 01:34:57,208 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 01:35:02,226 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 01:35:10,244 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 01:35:13,790 - logging_config - INFO - Entering username and password
+2024-11-16 01:35:14,481 - logging_config - INFO - Entered username: Admin1
+2024-11-16 01:35:14,594 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 01:35:15,796 - logging_config - INFO - Clicked the login button
+2024-11-16 01:35:15,798 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 01:35:16,450 - logging_config - INFO - User is not logged in as expected
+2024-11-16 01:35:16,451 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 01:35:16,490 - logging_config - INFO - Error message displayed correctly
+2024-11-16 01:35:16,570 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 01:35:17,947 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 01:35:22,358 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 01:35:27,661 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 01:35:31,823 - logging_config - INFO - Entering username and password
+2024-11-16 01:35:33,164 - logging_config - INFO - Entered username: admin
+2024-11-16 01:35:33,348 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 01:35:34,729 - logging_config - INFO - Clicked the login button
+2024-11-16 01:35:34,731 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 01:35:35,313 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 01:35:35,808 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 01:35:35,950 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 01:35:36,221 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 01:35:36,464 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 01:35:41,538 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 01:35:44,557 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 01:35:48,268 - logging_config - INFO - Entering username and password
+2024-11-16 01:35:49,039 - logging_config - INFO - Entered username: Admin1
+2024-11-16 01:35:49,231 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 01:35:50,149 - logging_config - INFO - Clicked the login button
+2024-11-16 01:35:50,150 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 01:35:50,709 - logging_config - INFO - User is not logged in as expected
+2024-11-16 01:35:50,711 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 01:35:50,766 - logging_config - INFO - Error message displayed correctly
+2024-11-16 01:35:50,896 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 01:35:51,094 - logging_config - INFO - All tests completed
+2024-11-16 01:36:58,671 - logging_config - INFO - Starting all tests
+2024-11-16 01:36:58,674 - logging_config - INFO - All tests completed
+2024-11-16 01:45:44,363 - logging_config - INFO - Starting all tests
+2024-11-16 01:45:44,369 - logging_config - INFO - All tests completed
+2024-11-16 01:46:42,355 - logging_config - INFO - Starting all tests
+2024-11-16 01:46:42,361 - logging_config - INFO - All tests completed
+2024-11-16 01:46:50,976 - logging_config - INFO - Starting all tests
+2024-11-16 01:46:50,978 - logging_config - INFO - All tests completed
+2024-11-16 01:47:28,340 - logging_config - INFO - Starting all tests
+2024-11-16 01:47:28,342 - logging_config - INFO - All tests completed
+2024-11-16 01:48:21,364 - logging_config - INFO - Starting all tests
+2024-11-16 01:48:21,368 - logging_config - INFO - All tests completed
+2024-11-16 01:52:46,951 - logging_config - INFO - Starting all tests
+2024-11-16 01:52:46,955 - logging_config - INFO - All tests completed
+2024-11-16 01:55:21,627 - logging_config - INFO - Starting all tests
+2024-11-16 01:55:21,632 - logging_config - INFO - All tests completed
+2024-11-16 01:57:16,680 - logging_config - INFO - Starting all tests
+2024-11-16 01:57:16,687 - logging_config - INFO - All tests completed
+2024-11-16 01:58:19,110 - logging_config - INFO - Starting all tests
+2024-11-16 01:58:19,114 - logging_config - INFO - All tests completed
+2024-11-16 01:58:38,780 - logging_config - INFO - Starting all tests
+2024-11-16 01:58:38,782 - logging_config - INFO - All tests completed
+2024-11-16 02:00:39,232 - logging_config - INFO - Starting all tests
+2024-11-16 02:00:39,237 - logging_config - INFO - All tests completed
+2024-11-16 02:01:50,503 - logging_config - INFO - Starting all tests
+2024-11-16 02:01:50,508 - logging_config - INFO - All tests completed
+2024-11-16 02:04:39,637 - logging_config - INFO - Starting all tests
+2024-11-16 02:04:39,641 - logging_config - INFO - All tests completed
+2024-11-16 02:05:29,914 - logging_config - INFO - Starting all tests
+2024-11-16 02:05:29,918 - logging_config - INFO - All tests completed
+2024-11-16 02:06:18,964 - logging_config - INFO - Starting all tests
+2024-11-16 02:06:18,969 - logging_config - INFO - All tests completed
+2024-11-16 02:08:40,690 - logging_config - INFO - Starting all tests
+2024-11-16 02:08:40,695 - logging_config - INFO - All tests completed
+2024-11-16 02:15:43,629 - logging_config - INFO - Starting all tests
+2024-11-16 02:15:43,633 - logging_config - INFO - All tests completed
+2024-11-16 02:20:27,995 - logging_config - INFO - Starting all tests
+2024-11-16 02:20:28,000 - logging_config - INFO - All tests completed
+2024-11-16 02:20:39,201 - logging_config - INFO - Starting all tests
+2024-11-16 02:20:39,209 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:20:45,177 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:20:48,067 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:20:51,720 - logging_config - INFO - Entering username and password
+2024-11-16 02:20:52,605 - logging_config - INFO - Entered username: admin
+2024-11-16 02:20:52,957 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:20:54,245 - logging_config - INFO - Clicked the login button
+2024-11-16 02:20:54,247 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:20:54,830 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:20:55,065 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:20:55,157 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:20:55,351 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:20:55,676 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:20:57,768 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:21:04,945 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 02:21:08,505 - logging_config - INFO - Entering username and password
+2024-11-16 02:21:09,334 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:21:09,465 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:21:11,049 - logging_config - INFO - Clicked the login button
+2024-11-16 02:21:11,051 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:21:11,660 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:21:11,665 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:21:11,767 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:21:11,878 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:21:13,283 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:21:15,453 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:21:18,278 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 02:21:21,526 - logging_config - INFO - Entering username and password
+2024-11-16 02:21:22,259 - logging_config - INFO - Entered username: admin
+2024-11-16 02:21:22,464 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:21:23,721 - logging_config - INFO - Clicked the login button
+2024-11-16 02:21:23,723 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:21:24,358 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:21:24,544 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:21:24,654 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:21:24,818 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:21:25,133 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:21:27,157 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:21:29,582 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:21:32,742 - logging_config - INFO - Entering username and password
+2024-11-16 02:21:33,502 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:21:33,768 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:21:34,726 - logging_config - INFO - Clicked the login button
+2024-11-16 02:21:34,727 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:21:35,295 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:21:35,296 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:21:35,339 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:21:35,458 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:21:35,721 - logging_config - INFO - All tests completed
+2024-11-16 02:27:38,877 - logging_config - INFO - Starting all tests
+2024-11-16 02:27:38,883 - logging_config - INFO - All tests completed
+2024-11-16 02:32:43,104 - logging_config - INFO - Starting all tests
+2024-11-16 02:32:43,109 - logging_config - INFO - All tests completed
+2024-11-16 02:32:51,620 - logging_config - INFO - Starting all tests
+2024-11-16 02:32:51,622 - logging_config - INFO - All tests completed
+2024-11-16 02:35:49,136 - logging_config - INFO - Starting all tests
+2024-11-16 02:35:49,141 - logging_config - INFO - All tests completed
+2024-11-16 02:36:07,868 - logging_config - INFO - Starting all tests
+2024-11-16 02:36:07,872 - logging_config - INFO - All tests completed
+2024-11-16 02:36:44,958 - logging_config - INFO - Starting all tests
+2024-11-16 02:36:44,962 - logging_config - INFO - All tests completed
+2024-11-16 02:36:50,709 - logging_config - INFO - Starting all tests
+2024-11-16 02:36:50,711 - logging_config - INFO - All tests completed
+2024-11-16 02:38:22,572 - logging_config - INFO - Starting all tests
+2024-11-16 02:38:22,583 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:38:27,258 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:38:29,657 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:38:33,691 - logging_config - INFO - Entering username and password
+2024-11-16 02:38:34,626 - logging_config - INFO - Entered username: admin
+2024-11-16 02:38:34,811 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:38:36,138 - logging_config - INFO - Clicked the login button
+2024-11-16 02:38:36,140 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:38:36,712 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:38:36,936 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:38:37,031 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:38:37,207 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:38:37,448 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:38:39,530 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:38:45,605 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 02:38:49,652 - logging_config - INFO - Entering username and password
+2024-11-16 02:38:50,339 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:38:50,448 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:38:52,273 - logging_config - INFO - Clicked the login button
+2024-11-16 02:38:52,273 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:38:52,815 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:38:52,816 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:38:52,853 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:38:52,912 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:38:54,325 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:38:56,503 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:38:58,876 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 02:39:02,054 - logging_config - INFO - Entering username and password
+2024-11-16 02:39:03,004 - logging_config - INFO - Entered username: admin
+2024-11-16 02:39:03,201 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:39:04,471 - logging_config - INFO - Clicked the login button
+2024-11-16 02:39:04,472 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:39:05,105 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:39:05,288 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:39:05,356 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:39:05,519 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:39:05,786 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:39:07,800 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:39:10,085 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:39:13,442 - logging_config - INFO - Entering username and password
+2024-11-16 02:39:14,216 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:39:14,571 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:39:14,688 - logging_config - INFO - Clicked the login button
+2024-11-16 02:39:14,690 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:39:16,071 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:39:16,071 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:39:16,115 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:39:16,210 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:39:16,446 - logging_config - INFO - All tests completed
+2024-11-16 02:40:16,203 - logging_config - INFO - Starting all tests
+2024-11-16 02:40:16,209 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:40:18,420 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:40:20,709 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:40:24,160 - logging_config - INFO - Entering username and password
+2024-11-16 02:40:24,893 - logging_config - INFO - Entered username: admin
+2024-11-16 02:40:25,060 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:40:26,285 - logging_config - INFO - Clicked the login button
+2024-11-16 02:40:26,287 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:40:26,867 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:40:27,049 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:40:27,094 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:40:27,300 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:40:27,524 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:40:29,475 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:40:35,890 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 02:40:39,359 - logging_config - INFO - Entering username and password
+2024-11-16 02:40:40,047 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:40:40,083 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:40:41,484 - logging_config - INFO - Clicked the login button
+2024-11-16 02:40:41,485 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:40:42,098 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:40:42,100 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:40:42,163 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:40:42,217 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:40:43,391 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:40:45,427 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:40:48,278 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 02:40:51,250 - logging_config - INFO - Entering username and password
+2024-11-16 02:40:51,991 - logging_config - INFO - Entered username: admin
+2024-11-16 02:40:52,175 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:40:53,426 - logging_config - INFO - Clicked the login button
+2024-11-16 02:40:53,427 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:40:54,053 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:40:54,290 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:40:54,411 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:40:54,620 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:40:54,893 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:40:57,775 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:40:59,952 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:41:04,477 - logging_config - INFO - Entering username and password
+2024-11-16 02:41:05,491 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:41:05,841 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:41:06,768 - logging_config - INFO - Clicked the login button
+2024-11-16 02:41:06,771 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:41:07,358 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:41:07,359 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:41:07,413 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:41:07,572 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:41:07,855 - logging_config - INFO - All tests completed
+2024-11-16 02:41:25,890 - logging_config - INFO - Starting all tests
+2024-11-16 02:41:25,893 - logging_config - INFO - All tests completed
+2024-11-16 02:41:52,632 - logging_config - INFO - Starting all tests
+2024-11-16 02:41:52,634 - logging_config - INFO - All tests completed
+2024-11-16 02:42:06,834 - logging_config - INFO - Starting all tests
+2024-11-16 02:42:06,838 - logging_config - INFO - All tests completed
+2024-11-16 02:42:36,622 - logging_config - INFO - Starting all tests
+2024-11-16 02:42:36,625 - logging_config - INFO - All tests completed
+2024-11-16 02:42:56,338 - logging_config - INFO - Starting all tests
+2024-11-16 02:42:56,354 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:43:02,380 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:43:05,474 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:43:06,300 - logging_config - ERROR - Scenario failed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:43:06,341 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1ef890>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a5dfb3437d387cd13133222bf31a6f16/screenshot
+2024-11-16 02:43:06,349 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1bfce0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a5dfb3437d387cd13133222bf31a6f16/screenshot
+2024-11-16 02:43:06,355 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b304050>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a5dfb3437d387cd13133222bf31a6f16/screenshot
+2024-11-16 02:43:06,360 - logging_config - INFO - All tests completed
+2024-11-16 02:46:10,042 - logging_config - INFO - Starting all tests
+2024-11-16 02:46:10,048 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:46:12,310 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:46:14,824 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:46:18,488 - logging_config - INFO - Entering username and password
+2024-11-16 02:46:19,371 - logging_config - INFO - Entered username: admin
+2024-11-16 02:46:19,545 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:46:20,840 - logging_config - INFO - Clicked the login button
+2024-11-16 02:46:20,843 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:46:21,412 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:46:21,938 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:46:22,066 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:46:22,398 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 02:46:22,704 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:46:24,811 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:46:30,632 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 02:46:34,090 - logging_config - INFO - Entering username and password
+2024-11-16 02:46:35,175 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:46:35,253 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:46:36,426 - logging_config - INFO - Clicked the login button
+2024-11-16 02:46:36,428 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:46:37,075 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:46:37,076 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:46:37,110 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:46:37,179 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 02:46:38,427 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:46:40,718 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 02:46:43,413 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 02:46:46,791 - logging_config - INFO - Entering username and password
+2024-11-16 02:46:47,540 - logging_config - INFO - Entered username: admin
+2024-11-16 02:46:47,712 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:46:48,972 - logging_config - INFO - Clicked the login button
+2024-11-16 02:46:48,973 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 02:46:49,598 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 02:46:49,774 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 02:46:49,822 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 02:46:50,000 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 02:46:50,262 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:46:52,180 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 02:46:54,643 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 02:46:57,928 - logging_config - INFO - Entering username and password
+2024-11-16 02:46:58,647 - logging_config - INFO - Entered username: Admin1
+2024-11-16 02:46:58,835 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 02:46:59,703 - logging_config - INFO - Clicked the login button
+2024-11-16 02:46:59,705 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 02:47:00,257 - logging_config - INFO - User is not logged in as expected
+2024-11-16 02:47:00,258 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 02:47:00,299 - logging_config - INFO - Error message displayed correctly
+2024-11-16 02:47:00,393 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 02:47:00,594 - logging_config - INFO - All tests completed
+2024-11-16 02:48:35,556 - logging_config - INFO - Starting all tests
+2024-11-16 02:48:35,559 - logging_config - INFO - All tests completed
+2024-11-16 02:49:31,620 - logging_config - INFO - Starting all tests
+2024-11-16 02:49:31,624 - logging_config - INFO - All tests completed
+2024-11-16 02:49:53,750 - logging_config - INFO - Starting all tests
+2024-11-16 02:49:53,752 - logging_config - INFO - All tests completed
+2024-11-16 02:54:24,456 - logging_config - INFO - Starting all tests
+2024-11-16 02:54:24,462 - logging_config - INFO - All tests completed
+2024-11-16 02:55:03,619 - logging_config - INFO - Starting all tests
+2024-11-16 02:55:03,622 - logging_config - INFO - All tests completed
+2024-11-16 03:02:39,656 - logging_config - INFO - Starting all tests
+2024-11-16 03:02:39,662 - logging_config - INFO - All tests completed
+2024-11-16 03:05:00,475 - logging_config - INFO - Starting all tests
+2024-11-16 03:05:00,481 - logging_config - INFO - All tests completed
+2024-11-16 03:06:42,429 - logging_config - INFO - Starting all tests
+2024-11-16 03:06:42,435 - logging_config - INFO - All tests completed
+2024-11-16 03:07:25,015 - logging_config - INFO - Starting all tests
+2024-11-16 03:07:30,297 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 03:07:32,531 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 03:07:35,268 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 03:07:39,012 - logging_config - INFO - Entering username and password
+2024-11-16 03:07:39,905 - logging_config - INFO - Entered username: admin
+2024-11-16 03:07:40,112 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:07:41,437 - logging_config - INFO - Clicked the login button
+2024-11-16 03:07:41,439 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 03:07:42,020 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 03:07:42,234 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 03:07:42,348 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 03:07:42,511 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 03:07:42,700 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 03:07:44,739 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 03:07:51,607 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 03:07:55,251 - logging_config - INFO - Entering username and password
+2024-11-16 03:07:55,928 - logging_config - INFO - Entered username: Admin1
+2024-11-16 03:07:55,980 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:07:57,627 - logging_config - INFO - Clicked the login button
+2024-11-16 03:07:57,628 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 03:07:58,177 - logging_config - INFO - User is not logged in as expected
+2024-11-16 03:07:58,179 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 03:07:58,219 - logging_config - INFO - Error message displayed correctly
+2024-11-16 03:07:58,285 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 03:07:59,681 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 03:08:01,602 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 03:08:04,004 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 03:08:07,655 - logging_config - INFO - Entering username and password
+2024-11-16 03:08:08,386 - logging_config - INFO - Entered username: admin
+2024-11-16 03:08:08,566 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:08:09,860 - logging_config - INFO - Clicked the login button
+2024-11-16 03:08:09,862 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 03:08:10,434 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 03:08:10,657 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 03:08:10,714 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 03:08:10,896 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 03:08:11,067 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 03:08:13,131 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 03:08:15,465 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 03:08:18,619 - logging_config - INFO - Entering username and password
+2024-11-16 03:08:19,384 - logging_config - INFO - Entered username: Admin1
+2024-11-16 03:08:19,581 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:08:20,401 - logging_config - INFO - Clicked the login button
+2024-11-16 03:08:20,406 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 03:08:20,961 - logging_config - INFO - User is not logged in as expected
+2024-11-16 03:08:20,962 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 03:08:21,008 - logging_config - INFO - Error message displayed correctly
+2024-11-16 03:08:21,111 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 03:08:21,275 - logging_config - INFO - All tests completed
+2024-11-16 03:14:48,550 - logging_config - INFO - Starting all tests
+2024-11-16 03:14:48,554 - logging_config - INFO - All tests completed
+2024-11-16 03:19:53,242 - logging_config - INFO - Starting all tests
+2024-11-16 03:19:53,249 - logging_config - INFO - All tests completed
+2024-11-16 03:22:01,692 - logging_config - INFO - Starting all tests
+2024-11-16 03:22:01,695 - logging_config - INFO - All tests completed
+2024-11-16 03:22:06,177 - logging_config - INFO - Starting all tests
+2024-11-16 03:22:06,178 - logging_config - INFO - All tests completed
+2024-11-16 03:22:22,811 - logging_config - INFO - Starting all tests
+2024-11-16 03:22:27,909 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.1 
+2024-11-16 03:22:30,141 - logging_config - ERROR - Scenario failed: Test Login with Various Credentials -- @1.1 
+2024-11-16 03:22:30,702 - logging_config - INFO - Starting scenario: Test Login with Various Credentials -- @1.2 
+2024-11-16 03:22:32,661 - logging_config - ERROR - Scenario failed: Test Login with Various Credentials -- @1.2 
+2024-11-16 03:22:33,026 - logging_config - INFO - All tests completed
+2024-11-16 03:25:02,447 - logging_config - INFO - Starting all tests
+2024-11-16 03:25:02,452 - logging_config - INFO - All tests completed
+2024-11-16 03:25:36,127 - logging_config - INFO - Starting all tests
+2024-11-16 03:25:36,132 - logging_config - INFO - All tests completed
+2024-11-16 03:26:21,994 - logging_config - INFO - Starting all tests
+2024-11-16 03:26:21,998 - logging_config - INFO - All tests completed
+2024-11-16 03:26:51,420 - logging_config - INFO - Starting all tests
+2024-11-16 03:26:54,317 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 03:26:57,038 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 03:27:01,698 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 03:27:07,412 - logging_config - INFO - Entering username and password
+2024-11-16 03:27:08,310 - logging_config - INFO - Entered username: admin
+2024-11-16 03:27:08,568 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:27:08,768 - logging_config - INFO - Clicked the login button
+2024-11-16 03:27:08,770 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 03:27:10,671 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 03:27:11,429 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 03:27:11,512 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 03:27:11,772 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 03:27:12,044 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 03:27:14,587 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 03:27:21,832 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 03:27:25,550 - logging_config - INFO - Entering username and password
+2024-11-16 03:27:26,528 - logging_config - INFO - Entered username: Admin1
+2024-11-16 03:27:26,611 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:27:27,969 - logging_config - INFO - Clicked the login button
+2024-11-16 03:27:27,972 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 03:27:28,624 - logging_config - INFO - User is not logged in as expected
+2024-11-16 03:27:28,626 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 03:27:28,667 - logging_config - INFO - Error message displayed correctly
+2024-11-16 03:27:28,797 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 03:27:30,135 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 03:27:32,921 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 03:27:35,890 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 03:27:39,131 - logging_config - INFO - Entering username and password
+2024-11-16 03:27:39,848 - logging_config - INFO - Entered username: admin
+2024-11-16 03:27:40,117 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:27:41,331 - logging_config - INFO - Clicked the login button
+2024-11-16 03:27:41,333 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 03:27:42,109 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 03:27:42,859 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 03:27:42,925 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 03:27:43,146 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 03:27:43,350 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 03:27:45,416 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 03:27:47,758 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 03:27:51,967 - logging_config - INFO - Entering username and password
+2024-11-16 03:27:52,865 - logging_config - INFO - Entered username: Admin1
+2024-11-16 03:27:53,033 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 03:27:53,978 - logging_config - INFO - Clicked the login button
+2024-11-16 03:27:53,979 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 03:27:54,548 - logging_config - INFO - User is not logged in as expected
+2024-11-16 03:27:54,549 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 03:27:54,599 - logging_config - INFO - Error message displayed correctly
+2024-11-16 03:27:54,729 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 03:27:55,090 - logging_config - INFO - All tests completed
+2024-11-16 03:35:44,063 - logging_config - INFO - Starting all tests
+2024-11-16 03:35:44,069 - logging_config - INFO - All tests completed
+2024-11-16 03:40:45,796 - logging_config - INFO - Starting all tests
+2024-11-16 03:40:45,800 - logging_config - INFO - All tests completed
+2024-11-16 03:46:24,054 - logging_config - INFO - Starting all tests
+2024-11-16 03:46:24,058 - logging_config - INFO - All tests completed
+2024-11-16 03:48:09,324 - logging_config - INFO - Starting all tests
+2024-11-16 03:48:09,332 - logging_config - INFO - All tests completed
+2024-11-16 03:50:38,603 - logging_config - INFO - Starting all tests
+2024-11-16 03:50:38,608 - logging_config - INFO - All tests completed
+2024-11-16 03:54:09,019 - logging_config - INFO - Starting all tests
+2024-11-16 03:54:09,023 - logging_config - INFO - All tests completed
+2024-11-16 03:59:12,988 - logging_config - INFO - Starting all tests
+2024-11-16 03:59:12,995 - logging_config - INFO - All tests completed
+2024-11-16 03:59:33,741 - logging_config - INFO - Starting all tests
+2024-11-16 03:59:54,018 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 03:59:56,203 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 03:59:58,893 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 04:00:02,115 - logging_config - INFO - Entering username and password
+2024-11-16 04:00:03,043 - logging_config - INFO - Entered username: admin
+2024-11-16 04:00:03,299 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:00:04,540 - logging_config - INFO - Clicked the login button
+2024-11-16 04:00:04,541 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:00:05,116 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:00:05,412 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:00:05,462 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:00:05,668 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:00:05,840 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:00:07,890 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:00:15,578 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 04:00:19,098 - logging_config - INFO - Entering username and password
+2024-11-16 04:00:19,754 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:00:19,787 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:00:21,208 - logging_config - INFO - Clicked the login button
+2024-11-16 04:00:21,209 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:00:21,858 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:00:21,859 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:00:22,000 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:00:22,120 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:00:23,263 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 04:00:25,481 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:00:28,084 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 04:00:31,815 - logging_config - INFO - Entering username and password
+2024-11-16 04:00:32,603 - logging_config - INFO - Entered username: admin
+2024-11-16 04:00:32,887 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:00:34,214 - logging_config - INFO - Clicked the login button
+2024-11-16 04:00:34,218 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:00:34,880 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:00:35,448 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:00:35,520 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:00:35,766 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 04:00:36,066 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 04:00:38,189 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:00:40,501 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 04:00:43,702 - logging_config - INFO - Entering username and password
+2024-11-16 04:00:44,397 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:00:44,561 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:00:45,351 - logging_config - INFO - Clicked the login button
+2024-11-16 04:00:45,352 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:00:45,900 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:00:45,901 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:00:45,943 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:00:46,071 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 04:00:46,244 - logging_config - INFO - All tests completed
+2024-11-16 04:04:55,334 - logging_config - INFO - Starting all tests
+2024-11-16 04:04:55,337 - logging_config - INFO - All tests completed
+2024-11-16 04:05:03,429 - logging_config - INFO - Starting all tests
+2024-11-16 04:05:03,432 - logging_config - INFO - All tests completed
+2024-11-16 04:19:05,573 - logging_config - INFO - Starting all tests
+2024-11-16 04:19:05,578 - logging_config - INFO - All tests completed
+2024-11-16 04:19:12,897 - logging_config - INFO - Starting all tests
+2024-11-16 04:19:17,514 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:19:19,704 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:19:22,556 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 04:19:26,934 - logging_config - INFO - Entering username and password
+2024-11-16 04:19:28,248 - logging_config - INFO - Entered username: admin
+2024-11-16 04:19:28,557 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:19:29,867 - logging_config - INFO - Clicked the login button
+2024-11-16 04:19:29,869 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:19:30,466 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:19:30,653 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:19:30,698 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:19:30,934 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:19:31,122 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:19:33,127 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:19:39,245 - logging_config - INFO - Opening the login page URL in firefox browser
+2024-11-16 04:19:42,829 - logging_config - INFO - Entering username and password
+2024-11-16 04:19:43,684 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:19:43,713 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:19:44,771 - logging_config - INFO - Clicked the login button
+2024-11-16 04:19:44,772 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:19:45,424 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:19:45,425 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:19:45,560 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:19:45,663 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:19:47,102 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 04:19:49,894 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:19:52,477 - logging_config - INFO - Opening the login page URL in edge browser
+2024-11-16 04:19:55,853 - logging_config - INFO - Entering username and password
+2024-11-16 04:19:56,593 - logging_config - INFO - Entered username: admin
+2024-11-16 04:19:56,737 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:19:57,886 - logging_config - INFO - Clicked the login button
+2024-11-16 04:19:57,889 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:19:58,479 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:19:58,680 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:19:58,720 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:19:58,933 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.3 
+2024-11-16 04:19:59,188 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 04:20:01,338 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:20:03,945 - logging_config - INFO - Opening the login page URL in chrome browser
+2024-11-16 04:20:07,214 - logging_config - INFO - Entering username and password
+2024-11-16 04:20:08,040 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:20:08,296 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:20:08,407 - logging_config - INFO - Clicked the login button
+2024-11-16 04:20:08,408 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:20:09,699 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:20:09,699 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:20:09,744 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:20:09,863 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.4 
+2024-11-16 04:20:10,059 - logging_config - INFO - All tests completed
+2024-11-16 04:21:27,353 - logging_config - INFO - Starting all tests
+2024-11-16 04:21:29,368 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:21:31,604 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:21:33,933 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:21:36,996 - logging_config - INFO - Entering username and password
+2024-11-16 04:21:37,726 - logging_config - INFO - Entered username: admin
+2024-11-16 04:21:37,856 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:21:39,170 - logging_config - INFO - Clicked the login button
+2024-11-16 04:21:39,172 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:21:39,825 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:21:41,282 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:21:41,448 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:21:41,855 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:21:42,195 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:21:45,918 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:21:50,380 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:21:55,150 - logging_config - INFO - Entering username and password
+2024-11-16 04:21:56,232 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:21:56,515 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:21:57,556 - logging_config - INFO - Clicked the login button
+2024-11-16 04:21:57,557 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:21:58,153 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:21:58,154 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:21:58,226 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:21:58,408 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:21:58,674 - logging_config - INFO - All tests completed
+2024-11-16 04:22:33,345 - logging_config - INFO - Starting all tests
+2024-11-16 04:22:39,782 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:22:49,859 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:22:59,488 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:23:03,541 - logging_config - INFO - Entering username and password
+2024-11-16 04:23:05,182 - logging_config - INFO - Entered username: admin
+2024-11-16 04:23:05,483 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:23:05,687 - logging_config - INFO - Clicked the login button
+2024-11-16 04:23:05,695 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:23:08,208 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:23:09,384 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:23:09,537 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:23:10,283 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:23:10,778 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:23:41,257 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:23:58,908 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:24:05,787 - logging_config - ERROR - Scenario failed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:24:05,878 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10290deb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3182259f977e3ca9098388db422f3525/screenshot
+2024-11-16 04:24:05,887 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102887790>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3182259f977e3ca9098388db422f3525/screenshot
+2024-11-16 04:24:05,891 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102887ac0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3182259f977e3ca9098388db422f3525/screenshot
+2024-11-16 04:24:05,932 - logging_config - INFO - All tests completed
+2024-11-16 04:24:05,945 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10293dd30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b756d39a-d89e-4256-a8f7-4ee249344367
+2024-11-16 04:24:05,990 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102a6c380>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b756d39a-d89e-4256-a8f7-4ee249344367
+2024-11-16 04:24:05,995 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102a6c6b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/b756d39a-d89e-4256-a8f7-4ee249344367
+2024-11-16 04:25:15,519 - logging_config - INFO - Starting all tests
+2024-11-16 04:25:58,073 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:26:09,029 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:26:20,683 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:26:24,821 - logging_config - INFO - Entering username and password
+2024-11-16 04:26:25,984 - logging_config - INFO - Entered username: admin
+2024-11-16 04:26:26,315 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:26:27,957 - logging_config - INFO - Clicked the login button
+2024-11-16 04:26:27,959 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:26:28,617 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:26:29,774 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:26:29,949 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:26:30,338 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:26:30,680 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:26:40,953 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:26:48,587 - logging_config - ERROR - Scenario failed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:26:48,760 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1023ac510>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0303154f-a630-48cc-a230-166e25951621/screenshot
+2024-11-16 04:26:48,797 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102265eb0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0303154f-a630-48cc-a230-166e25951621/screenshot
+2024-11-16 04:26:48,803 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1021df9b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/0303154f-a630-48cc-a230-166e25951621/screenshot
+2024-11-16 04:26:48,815 - logging_config - INFO - All tests completed
+2024-11-16 04:26:48,854 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102295d30>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ab8fb8b5-439e-482f-b144-911b6ae1f4b4
+2024-11-16 04:27:38,259 - logging_config - INFO - Starting all tests
+2024-11-16 04:27:46,929 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:27:57,902 - logging_config - INFO - Setting up valid login credentials
+2024-11-16 04:28:06,682 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:28:11,643 - logging_config - INFO - Entering username and password
+2024-11-16 04:28:12,727 - logging_config - INFO - Entered username: admin
+2024-11-16 04:28:13,083 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:28:13,481 - logging_config - INFO - Clicked the login button
+2024-11-16 04:28:13,484 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-16 04:28:15,483 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-16 04:28:16,745 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-16 04:28:16,929 - logging_config - INFO - Profile page displayed correctly
+2024-11-16 04:28:17,278 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-16 04:28:17,674 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:28:27,375 - logging_config - INFO - Setting up invalid login credentials
+2024-11-16 04:28:35,453 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-16 04:28:39,300 - logging_config - INFO - Entering username and password
+2024-11-16 04:28:41,560 - logging_config - INFO - Entered username: Admin1
+2024-11-16 04:28:41,911 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-16 04:28:43,152 - logging_config - INFO - Clicked the login button
+2024-11-16 04:28:43,155 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-16 04:28:43,763 - logging_config - INFO - User is not logged in as expected
+2024-11-16 04:28:43,765 - logging_config - INFO - Checking if error message is displayed
+2024-11-16 04:28:43,861 - logging_config - INFO - Error message displayed correctly
+2024-11-16 04:28:44,060 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-16 04:28:44,373 - logging_config - INFO - All tests completed
+2024-11-17 00:15:42,912 - logging_config - INFO - Starting all tests
+2024-11-17 00:15:49,907 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-17 00:15:54,885 - logging_config - INFO - Setting up valid login credentials
+2024-11-17 00:15:59,959 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-17 00:16:03,811 - logging_config - INFO - Entering username and password
+2024-11-17 00:16:04,643 - logging_config - INFO - Entered username: admin
+2024-11-17 00:16:04,795 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-17 00:16:06,169 - logging_config - INFO - Clicked the login button
+2024-11-17 00:16:06,175 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-17 00:16:06,742 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-17 00:16:07,073 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-17 00:16:07,166 - logging_config - INFO - Profile page displayed correctly
+2024-11-17 00:16:07,380 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-17 00:16:07,555 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-17 00:16:12,288 - logging_config - INFO - Setting up invalid login credentials
+2024-11-17 00:16:14,884 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-17 00:16:18,094 - logging_config - INFO - Entering username and password
+2024-11-17 00:16:18,840 - logging_config - INFO - Entered username: Admin1
+2024-11-17 00:16:19,080 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-17 00:16:19,926 - logging_config - INFO - Clicked the login button
+2024-11-17 00:16:19,932 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-17 00:16:20,495 - logging_config - INFO - User is not logged in as expected
+2024-11-17 00:16:20,495 - logging_config - INFO - Checking if error message is displayed
+2024-11-17 00:16:20,536 - logging_config - INFO - Error message displayed correctly
+2024-11-17 00:16:20,665 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-17 00:16:20,824 - logging_config - INFO - All tests completed
+2024-11-17 00:24:49,366 - logging_config - INFO - Starting all tests
+2024-11-17 00:24:55,020 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-17 00:25:00,315 - logging_config - INFO - Setting up valid login credentials
+2024-11-17 00:25:05,324 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-17 00:25:09,288 - logging_config - INFO - Entering username and password
+2024-11-17 00:25:10,277 - logging_config - INFO - Entered username: admin
+2024-11-17 00:25:10,566 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-17 00:25:10,715 - logging_config - INFO - Clicked the login button
+2024-11-17 00:25:10,717 - logging_config - INFO - Checking if the user is successfully logged in
+2024-11-17 00:25:12,509 - logging_config - INFO - Dashboard is displayed successfully
+2024-11-17 00:25:12,732 - logging_config - INFO - Checking if correct profile page is displayed
+2024-11-17 00:25:12,800 - logging_config - INFO - Profile page displayed correctly
+2024-11-17 00:25:12,979 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.1 
+2024-11-17 00:25:13,167 - logging_config - INFO - Starting scenario: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-17 00:25:17,972 - logging_config - INFO - Setting up invalid login credentials
+2024-11-17 00:25:20,736 - logging_config - INFO - Opening the login page URL in <browser> browser
+2024-11-17 00:25:23,995 - logging_config - INFO - Entering username and password
+2024-11-17 00:25:24,843 - logging_config - INFO - Entered username: Admin1
+2024-11-17 00:25:25,061 - logging_config - INFO - Entered password: [HIDDEN]
+2024-11-17 00:25:25,923 - logging_config - INFO - Clicked the login button
+2024-11-17 00:25:25,925 - logging_config - INFO - Checking if the user is not be logged in
+2024-11-17 00:25:26,484 - logging_config - INFO - User is not logged in as expected
+2024-11-17 00:25:26,485 - logging_config - INFO - Checking if error message is displayed
+2024-11-17 00:25:26,534 - logging_config - INFO - Error message displayed correctly
+2024-11-17 00:25:26,650 - logging_config - INFO - Scenario passed: Test Login with Various Credentials on Different Browsers -- @1.2 
+2024-11-17 00:25:26,813 - logging_config - INFO - All tests completed
